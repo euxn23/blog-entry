@@ -1,6 +1,6 @@
 
 +++
-date = "2016-05-01 18:25:00 +0000 UTC"
+date = "2016-05-01T18:25:00+09:00"
 draft = false
 title = "MVNO SIMのテザリングロックをMac/homebrewで解除する"
 tags = ["gadget", "google"]

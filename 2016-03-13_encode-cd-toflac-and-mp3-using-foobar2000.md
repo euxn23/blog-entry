@@ -1,6 +1,6 @@
 
 +++
-date = "2016-03-13 03:14:46 +0000 UTC"
+date = "2016-03-13T03:14:46+09:00"
 draft = false
 title = "WindowsでCDからflac、mp3にエンコードする(foobar2000)"
 tags = ["audio", "windows"]

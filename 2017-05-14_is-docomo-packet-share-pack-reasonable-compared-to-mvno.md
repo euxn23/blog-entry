@@ -1,6 +1,6 @@
 
 +++
-date = "2017-05-14 02:23:10 +0000 UTC"
+date = "2017-05-14T02:23:10+09:00"
 draft = false
 title = "docomo のシェアパックはMVNO と比較して妥当な金額なのかの検討記録"
 tags = ["gadget", "money"]

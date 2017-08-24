@@ -1,6 +1,6 @@
 
 +++
-date = "2016-07-03 21:29:07 +0000 UTC"
+date = "2016-07-03T21:29:07+09:00"
 draft = false
 title = "YAPC::Asia Hachiojiに行った&LTした"
 tags = ["javascript", "lt", "report"]

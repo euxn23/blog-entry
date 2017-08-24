@@ -1,6 +1,6 @@
 
 +++
-date = "2015-11-23 21:53:07 +0000 UTC"
+date = "2015-11-23T21:53:07+09:00"
 draft = false
 title = "iPhone5S(iOS8)+mineoでauのLTEを安定動作させた話"
 tags = ["apple", "gadget"]

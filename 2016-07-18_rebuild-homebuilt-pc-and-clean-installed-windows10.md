@@ -1,6 +1,6 @@
 
 +++
-date = "2016-07-18 21:03:01 +0000 UTC"
+date = "2016-07-18T21:03:01+09:00"
 draft = false
 title = "自作PCのパーツを変更しながらにWindows10をクリーンインストールする"
 tags = ["pc", "windows"]

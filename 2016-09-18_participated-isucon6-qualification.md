@@ -1,6 +1,6 @@
 
 +++
-date = "2016-09-18 23:48:20 +0000 UTC"
+date = "2016-09-18T23:48:20+09:00"
 draft = false
 title = "isucon6予選に出場した感想"
 tags = ["golang", "isucon", "report"]

@@ -1,6 +1,6 @@
 
 +++
-date = "2015-12-15 23:59:50 +0000 UTC"
+date = "2015-12-15T23:59:50+09:00"
 draft = false
 title = "一人暮らしにNexus Playerは要らないっぽい"
 tags = ["gadget", "google"]

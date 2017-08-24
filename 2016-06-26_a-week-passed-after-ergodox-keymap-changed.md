@@ -1,6 +1,6 @@
 
 +++
-date = "2016-06-26 02:55:39 +0000 UTC"
+date = "2016-06-26T02:55:39+09:00"
 draft = false
 title = "ErgoDox EZのキーマップを変更して1週間程度使った"
 tags = ["gadget", "keyboard"]
