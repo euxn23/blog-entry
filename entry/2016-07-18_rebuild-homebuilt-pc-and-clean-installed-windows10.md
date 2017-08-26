@@ -3,6 +3,7 @@
 date = "2016-07-18T21:03:01+09:00"
 draft = false
 title = "自作PCのパーツを変更しながらにWindows10をクリーンインストールする"
+thumbnail = "images/windows10.png"
 tags = ["pc", "windows"]
 categories = ["Tech"]
 

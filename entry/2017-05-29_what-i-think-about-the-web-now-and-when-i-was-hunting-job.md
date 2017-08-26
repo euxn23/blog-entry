@@ -3,6 +3,7 @@
 date = "2017-05-29T00:57:16+09:00"
 draft = false
 title = "就活時のWeb業界観と、入社3年目の今の視点と、Webとの向き合い方"
+thumbnail = "images/web.jpg"
 tags = ["poem", "web"]
 categories = ["Life"]
 

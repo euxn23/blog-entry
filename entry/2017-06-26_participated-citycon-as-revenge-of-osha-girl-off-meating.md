@@ -3,6 +3,7 @@
 date = "2017-06-26T18:45:57+09:00"
 draft = false
 title = "おしゃ女子オフ会の反省を生かして「ゆるオタ街コン」に参加した"
+thumbnail = "images/animachi-con.jpg"
 tags = ["report"]
 categories = ["Life"]
 

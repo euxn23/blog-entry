@@ -3,6 +3,7 @@
 date = "2017-06-02T23:45:05+09:00"
 draft = false
 title = "エンジニアVSおしゃ女子オフ会(第一回)に参加した"
+thumbnail = "images/engineer-vs-osha-girl.png"
 tags = ["report"]
 categories = ["Life"]
 

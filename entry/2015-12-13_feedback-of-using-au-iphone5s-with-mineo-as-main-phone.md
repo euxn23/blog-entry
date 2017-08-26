@@ -3,6 +3,7 @@
 date = "2015-12-13T23:59:52+09:00"
 draft = false
 title = "iPhone5S(au/mineo)をメイン機として使用してみて"
+thumbnail = "images/mineo.jpg"
 tags = ["apple", "gadget"]
 categories = ["Tech"]
 

@@ -3,6 +3,7 @@
 date = "2016-03-13T03:14:46+09:00"
 draft = false
 title = "WindowsでCDからflac、mp3にエンコードする(foobar2000)"
+thumbnail = "images/foobar2000.jpg"
 tags = ["audio", "windows"]
 categories = ["Tech"]
 

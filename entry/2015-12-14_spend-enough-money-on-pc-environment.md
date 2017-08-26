@@ -3,6 +3,7 @@
 date = "2015-12-14T23:24:57+09:00"
 draft = false
 title = "PC周りには金をかけろ 〜2015年ベストバイガジェット14日目〜"
+thumbnail = "images/adventar.png"
 tags = ["pc"]
 categories = ["Tech"]
 

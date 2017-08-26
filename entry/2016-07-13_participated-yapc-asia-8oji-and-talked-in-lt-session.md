@@ -3,6 +3,7 @@
 date = "2016-07-03T21:29:07+09:00"
 draft = false
 title = "YAPC::Asia Hachiojiに行った&LTした"
+thumbnail = "images/yapcasiahachioji.png"
 tags = ["javascript", "lt", "report"]
 categories = ["Engineering"]
 

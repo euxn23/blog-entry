@@ -3,6 +3,7 @@
 date = "2016-05-01T18:25:00+09:00"
 draft = false
 title = "MVNO SIMのテザリングロックをMac/homebrewで解除する"
+thumbnail = "images/nifmo.png"
 tags = ["gadget", "google"]
 categories = ["Tech"]
 

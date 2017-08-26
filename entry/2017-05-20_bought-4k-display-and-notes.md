@@ -3,6 +3,7 @@
 date = "2017-05-20T21:03:47+09:00"
 draft = false
 title = "4Kディスプレイを購入して困ったこと、購入前に注意しないといけないこと"
+thumbnail = "images/philips-bdm4350uc11.jpg"
 tags = ["gadget", "pc"]
 categories = ["Tech"]
 

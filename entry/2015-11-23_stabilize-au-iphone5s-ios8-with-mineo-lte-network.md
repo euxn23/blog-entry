@@ -3,6 +3,7 @@
 date = "2015-11-23T21:53:07+09:00"
 draft = false
 title = "iPhone5S(iOS8)+mineoでauのLTEを安定動作させた話"
+thumbnail = "images/mineo.jpg"
 tags = ["apple", "gadget"]
 categories = ["Tech"]
 

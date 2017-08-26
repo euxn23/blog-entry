@@ -3,6 +3,7 @@
 date = "2016-06-05T02:08:05+09:00"
 draft = false
 title = "ErgoDoxを注文した"
+thumbnail = "images/ergodox-ez.jpg"
 tags = ["gadget", "keyboard"]
 categories = ["Tech"]
 
