@@ -4,7 +4,7 @@ draft = false
 title = "CROSS2017 「フロントエンドエンジニアはこの先生きのこれるのか」レポート"
 thumbnail = "images/cross2017.png"
 tags = ["cross", "report"]
-categories = ["Programming"]
+categories = ["Engineering"]
 
 +++
 
