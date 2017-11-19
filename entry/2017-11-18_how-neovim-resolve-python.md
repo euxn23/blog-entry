@@ -13,7 +13,7 @@ categories = ["Engineering"]
 - global の python3 を常に指定したい場合は `g:python3_host_prog` に実態を指定する
     - `g:python3_host_prog` が指定されている場合、pyenv による解決よりも優先される
     - pyenv 環境と互換を取る場合、次のように指定することで動作し、遅延もほとんどない
-    - `let g:python3_host_prog = system('type pyenv &>/dev/null && echo -n "$(pyenv root)/versions/$(cat $(pyenv root)/version)/bin/python" || echo -n $(which python)')`
+    - `let g:python3_host_prog = system('type pyenv &>/dev/null && echo -n "$(pyenv root)/versions/$(cat $(pyenv root)/version | head -n 1)/bin/python" || echo -n $(which python)')`
 - python2 の解決を防ぐことで初期ロードを早くする
     - `let g:python_host_prog = ''` と明示的に指定することで python2 を明示的に無効化できる
     - pyenv で python2 が設定されていると python2 を解決してしまうため、上記を指定する必要がある
