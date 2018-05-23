@@ -7,6 +7,12 @@ categories = ["Engineering"]
 # ["Tech", "Engineering", "Life", "Poem", "DevEnv", "Otaku", "Career"]
 +++
 
+## 2018/05/23 追記
+
+entry 作る箇所だけ小さく別ライブラリにしました。
+[euxn23/webpacker-entry](https://github.com/euxn23/webpacker-entry)
+
+
 ## はじめに
 
 この内容は [meguro.es#15](https://megurocss.connpass.com/event/85649/) での発表を元に内容を整理したものです。
